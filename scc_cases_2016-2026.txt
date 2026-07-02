@@ -1,0 +1,3 @@
+Github's max for file uploads is 25 MB, but the file with all the cases is 54 MB. I uploaded it to this gdrive instead: 
+
+https://drive.google.com/drive/folders/1JfXX8cKT3ZvEm0oPh9jecbk6_KxK1hiV?usp=sharing
